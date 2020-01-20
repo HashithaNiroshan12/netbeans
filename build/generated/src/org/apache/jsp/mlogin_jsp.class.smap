@@ -1,0 +1,21 @@
+SMAP
+mlogin_jsp.java
+JSP
+*S JSP
+*F
++ 0 header.jsp
+header.jsp
++ 1 mlogin.jsp
+mlogin.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+1,65:50
+1#1,2:114
+4,8:117
+11,5:125
+16,5:131
+20,34:136
+1#2,23:169
+53#1,3:192
+*E
